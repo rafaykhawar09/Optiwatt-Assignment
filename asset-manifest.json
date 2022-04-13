@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Optiwatt-Assignment/static/css/main.89b8ec30.css",
+    "main.js": "/Optiwatt-Assignment/static/js/main.abf2481b.js",
+    "index.html": "/Optiwatt-Assignment/index.html",
+    "main.89b8ec30.css.map": "/Optiwatt-Assignment/static/css/main.89b8ec30.css.map",
+    "main.abf2481b.js.map": "/Optiwatt-Assignment/static/js/main.abf2481b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b8ec30.css",
+    "static/js/main.abf2481b.js"
+  ]
+}
